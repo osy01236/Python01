@@ -24,3 +24,4 @@ print(num + 10)
 width =int(input("너비 : "))
 height =int(input("높이 : "))
 print("넓이 : " + str(width*height))
+#확인해볼래
